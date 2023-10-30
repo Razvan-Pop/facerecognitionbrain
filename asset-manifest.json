@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.2b7dc959.css",
-    "main.js": "/react-gh-pages/static/js/main.54cb3f1e.js",
-    "static/js/496.ccd48ed1.chunk.js": "/react-gh-pages/static/js/496.ccd48ed1.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.2b7dc959.css.map": "/react-gh-pages/static/css/main.2b7dc959.css.map",
-    "main.54cb3f1e.js.map": "/react-gh-pages/static/js/main.54cb3f1e.js.map",
-    "496.ccd48ed1.chunk.js.map": "/react-gh-pages/static/js/496.ccd48ed1.chunk.js.map"
+    "main.css": "/facerecognitionbrain/static/css/main.2b7dc959.css",
+    "main.js": "/facerecognitionbrain/static/js/main.6a89f8ab.js",
+    "static/js/496.ccd48ed1.chunk.js": "/facerecognitionbrain/static/js/496.ccd48ed1.chunk.js",
+    "index.html": "/facerecognitionbrain/index.html",
+    "main.2b7dc959.css.map": "/facerecognitionbrain/static/css/main.2b7dc959.css.map",
+    "main.6a89f8ab.js.map": "/facerecognitionbrain/static/js/main.6a89f8ab.js.map",
+    "496.ccd48ed1.chunk.js.map": "/facerecognitionbrain/static/js/496.ccd48ed1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b7dc959.css",
-    "static/js/main.54cb3f1e.js"
+    "static/js/main.6a89f8ab.js"
   ]
 }
